@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; background:#f5f7fb; color:#222; }
+.container{ max-width:900px; margin:24px auto; background:#fff; padding:20px; box-shadow:0 2px 8px rgba(0,0,0,0.06); }
+h1{ margin-top:0 }
+#form input{ display:block; margin:8px 0; padding:8px; width:100%; box-sizing:border-box }
+#form button{ padding:8px 16px }
+.task{ border:1px solid #eee; padding:10px; margin:8px 0; display:flex; justify-content:space-between; align-items:center }
+.task .meta{ flex:1 }
+.task .actions button{ margin-left:8px }
+#summaryContent{ font-weight:bold }

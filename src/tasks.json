@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "hacer tarea 1 de programacion",
+      "description": "esta en el moodle",
+      "status": "todo"
+    },
+    {
+      "id": "2",
+      "title": "hacer trabajo de calculo ll",
+      "description": "Otra tarea más, ya no aguanto",
+      "status": "doing"
+    },
+    {
+      "id": "mhh2ksveoptgpf",
+      "title": "terminar el video",
+      "description": "subir el video",
+      "status": "done"
+    }
+  ]
+}

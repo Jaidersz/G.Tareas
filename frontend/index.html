@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Gestión de Tareas - Frontend</title>
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Gestor de Tareas</h1>
+
+      <section id="form">
+        <h2>Crear tarea</h2>
+        <input id="title" placeholder="Título" />
+        <input id="description" placeholder="Descripción" />
+        <button id="createBtn">Crear</button>
+      </section>
+
+      <section id="summary">
+        <h2>Resumen</h2>
+        <div id="summaryContent">Cargando...</div>
+      </section>
+
+      <section id="tasks">
+        <h2>Tareas</h2>
+        <div id="tasksList">Cargando...</div>
+      </section>
+    </div>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
